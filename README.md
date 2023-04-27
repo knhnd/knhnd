@@ -1,6 +1,7 @@
 # Ken Honda
 
-Ph.D. ( Media Studies ), Researcher of Media Studies. My research interests include Information System design, Social Informatics.
+Ph.D.(Media Studies).
+Specialty: Media Informatics, Social Computing, Database and HCI.
 
 - 👋 Hi, I’m @knhnd
 - 👀 I’m interested in ...
