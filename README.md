@@ -1,7 +1,7 @@
 # Ken Honda
 
 Ph.D.(Media Studies).  
-Specialty: Media Informatics, Social Computing, Database and HCI.
+Specialty: Media Informatics, Web, Database, Social Computing and HCI.
 
 - 👋 Hi, I’m @knhnd
 - 👀 I’m interested in ...
