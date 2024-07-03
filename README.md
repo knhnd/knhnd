@@ -1,7 +1,9 @@
 # Ken Honda 🚀
 
 Ph.D. (Media Studies)
+
 Full-time Assisstant at Faculty of Technology, International Professional University of Technology in Tokyo.
+
 Specialty: Media Informatics, Database Systems, Human Computer Interaction.
 
 - 👋 Hi, I’m @knhnd
