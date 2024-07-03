@@ -1,7 +1,8 @@
-# Ken Honda
+# Ken Honda 🚀
 
-Ph.D.(Media Studies).  
-Specialty: Media Informatics, Web, Database, Social Computing and HCI.
+Ph.D. (Media Studies)
+Full-time Assisstant at Faculty of Technology, International Professional University of Technology in Tokyo.
+Specialty: Media Informatics, Database Systems, Human Computer Interaction.
 
 - 👋 Hi, I’m @knhnd
 - 👀 I’m interested in ...
