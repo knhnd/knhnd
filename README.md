@@ -1,16 +1,8 @@
-# Ken Honda 🚀
-
-Ph.D. (Media Studies)
-
-Full-time Assisstant at Faculty of Technology, International Professional University of Technology in Tokyo.
-
+Ph.D. (Media Studies)  
+Full-time Assisstant at Faculty of Technology, International Professional University of Technology in Tokyo.  
 Specialty: Media Informatics, Database Systems, Human Computer Interaction.
 
-- 👋 Hi, I’m @knhnd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knhnd)](https://github.com/knhnd/github-readme-stats)
 
 <!---
 knhnd/knhnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
