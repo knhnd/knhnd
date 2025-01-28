@@ -1,4 +1,4 @@
-<img src="images/banner/takina2.JPG" align="center" />
+<img src="images/banner/kurumi2.JPG" align="center" />
   
 Ph.D. (Media Studies)  
 Full-time Assisstant at Faculty of Technology, International Professional University of Technology in Tokyo.  
