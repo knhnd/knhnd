@@ -1,8 +1,8 @@
 <img src="images/banner/kurumi2.JPG" align="center" />
   
 Ph.D. (Media Studies)  
-Full-time Assisstant at Faculty of Technology, International Professional University of Technology in Tokyo.  
-Specialty: Media Informatics, Database Systems, Human Computer Interaction.
+Assisstant Professor at Faculty of Information Design, Kaishi Innovation University.  
+Specialty: Media Informatics, Database Science, Human Computer Interaction.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knhnd&hide=Astro,MDX,Dockerfile&layout=compact)](https://github.com/knhnd/github-readme-stats)
     
