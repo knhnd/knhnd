@@ -1,4 +1,4 @@
-<img src="images/banner/Grogu.JPG" align="center" />
+<img src="images/banner/Grogu.jpg" align="center" />
   
 Ph.D. (Media Studies)  
 Assisstant Professor at Faculty of Information Design, Kaishi Innovation University.  
