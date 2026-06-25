@@ -16,6 +16,7 @@ Specialty: Media Informatics, Database Science, Human Computer Interaction.
   
 **Learning:**    
 <a href="https://golang.org/" title="Golang"><img src="images/icons/golang.png" /></a>
+<a href="https://golang.org/" title="Rust"><img src="images/icons/rust.png" /></a>
 
 <!---
 knhnd/knhnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
